@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Firdaus-112
+- 👋 Hi, I’m @Firdaus
 - 👀 I’m interested in data science and artificial intellegent field 
 - 🌱 I’m currently learning machine learning model types and their application 
 - 💞️ I’m looking to collaborate on any data science project
-- 📫 How to reach me using this account or email at firdaussav112@gamil.com
+- 📫 Can reach me using this account or email at firdaussav112@gamil.com
+- 📚 " 1000 miles journey begin with the first step"
 
 
 <!---
